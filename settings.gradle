@@ -1,2 +1,2 @@
-include 'app', 'helper'
+include 'app', 'helper', 'another-helper'
 

@@ -1,4 +1,4 @@
-package app
+package another.helper
 
 class DemoController {
 
